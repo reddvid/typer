@@ -9,4 +9,4 @@ I wanted to share quotes from books I read and currently reading to the internet
 
 ## Screenshot
 
-![App Screenshot on iOS]("/assets/ios.jpeg")
+<img src="https://github.com/reddvid/typer/blob/master/assets/ios.jpeg?raw=true" width="300"/>
